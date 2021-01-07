@@ -21,3 +21,4 @@ uc.cn
 sm.cn
 umeng.cloud
 googlesyndication.com
+*.1e100.net
